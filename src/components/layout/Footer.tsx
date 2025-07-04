@@ -1,6 +1,7 @@
 // src/components/layout/Footer.tsx
-import { FaGithub, FaLinkedin, FaTwitter } from 'react-icons/fa';
+import { FaLink } from 'react-icons/fa';
 import { siteConfig } from '@/content/siteConfig';
+import { FaLink, FaTwitter, FaGithub } from 'react-icons/fa';
 
 // A mapping from social name to icon component
 const iconMap = {
